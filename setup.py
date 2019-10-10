@@ -39,6 +39,7 @@ setup(
         'django>=2.0.13',
         'django-filter==2.1.0',
         'djangorestframework==3.7.7',
-        'six==1.11.0'
+        'six==1.11.0',
+        'python-dateutil>=2.8.0',
     ]
 )
